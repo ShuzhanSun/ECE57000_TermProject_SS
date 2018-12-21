@@ -2,7 +2,7 @@
 Term project for course Purdue ECE 57000 Artificial Intelligence, Fall 2018.
 
 ## Brief Summary
-This term project implemented Spatial Transformer Networks (STNs) ([Jaderberg et al. 2015][Jaderberg2015]). Quantitative effects of STNs to neural networks, on the aspects of model accuracy, converging speed, and model stability to initial conditions, are tested by embedding a single STN into Two Layer Perceptron (TLP) networks. Details are in the [report][Report_PDF].
+This term project implemented Spatial Transformer Networks (STNs) ([Jaderberg et al. 2015][Jaderberg2015]). Quantitative effects of STNs to neural networks, on the aspects of model accuracy, converging speed, and model stability to initial conditions, are tested by embedding a single STN into Two Layer Perceptron (TLP) networks. Details are in the [report][Report_PDF]. Per five peer reviews by my classmates, two of them ranked my project as tier 1 (the best), two tier 2, and one tier 4. Upon my overall performance on this term project, the instructor awarded me with a final grade A (the best).
 
 ## Acknowledgments
 The TLP codes are adopted and modified from the course instructor [Professor Jeffrey Mark Siskind][Prof_Jef]. Here is his [GitHub repository][Git_Jef].
